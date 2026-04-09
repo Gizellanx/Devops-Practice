@@ -25,6 +25,9 @@ To gain hands-on experience with tools and concepts used in real-world DevOps wo
 ## Progress Log
 - Day 1: Created repository and first commit
 - Day 1: Edited README and learned basic GitHub workflow
-
+- Day 1: Added Linux navigation and file management notes
+- Day 1: Documented Linux log troubleshooting scenario
+- Day 1: Organised project structure using folders
+  
 ## Goal
 To become internship-ready in DevOps within 8–12 months by building consistent, hands-on experience.
