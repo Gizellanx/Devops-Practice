@@ -28,6 +28,12 @@ To gain hands-on experience with tools and concepts used in real-world DevOps wo
 - Day 1: Added Linux navigation and file management notes
 - Day 1: Documented Linux log troubleshooting scenario
 - Day 1: Organised project structure using folders
+- Day 2: Built Python log analyser script
+- Day 2: Read and processed log files using Python
+- Day 2: Filtered logs using conditions (ERROR, WARNING, CPU, disk, memory)
+- Day 2: Used if, elif, and logical operators (and / or)
+- Day 2: Counted and displayed errors and warnings
+- Day 2: Structured output with summaries
   
 ## Goal
 To become internship-ready in DevOps within 8–12 months by building consistent, hands-on experience.
