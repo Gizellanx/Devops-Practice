@@ -34,6 +34,11 @@ To gain hands-on experience with tools and concepts used in real-world DevOps wo
 - Day 2: Used if, elif, and logical operators (and / or)
 - Day 2: Counted and displayed errors and warnings
 - Day 2: Structured output with summaries
+- Day 3: Analysed real-world style web server logs using Linux CLI tools
+- Day 3: Identified most active IP address from access.log
+- Day 3: Used awk, sort, uniq, and pipes to process log data
+- Day 3: Learned how to extract, count, and rank data from logs
+- Day 3: Practised writing outputs to files using redirection (>)
   
 ## Goal
 To become internship-ready in DevOps within 8–12 months by building consistent, hands-on experience.
