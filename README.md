@@ -39,6 +39,14 @@ To gain hands-on experience with tools and concepts used in real-world DevOps wo
 - Day 3: Used awk, sort, uniq, and pipes to process log data
 - Day 3: Learned how to extract, count, and rank data from logs
 - Day 3: Practised writing outputs to files using redirection (>)
+- Day 4: Built a structured log monitoring project (logs, scripts, output)
+- Day 4: Combined Python and Linux concepts into a single workflow
+- Day 4: Created a reusable Python script to analyse log data and generate reports
+- Day 4: Modified script logic for different scenarios (e.g. most active IP, suspicious activity)
+- Day 4: Executed Python scripts using the terminal instead of an IDE
+- Day 4: Understood how terminal interacts directly with system files
+- Day 4: Learned the relationship between macOS (Unix), Linux commands, and Python execution
+- Day 4: Generated output reports automatically instead of manual inspection
   
 ## Goal
 To become internship-ready in DevOps within 8–12 months by building consistent, hands-on experience.
