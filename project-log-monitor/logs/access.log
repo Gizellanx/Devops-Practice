@@ -1,0 +1,10 @@
+10.0.0.4 GET /index.html
+172.16.0.3 GET /login
+10.0.0.5 POST /api/login
+192.168.0.12 GET /dashboard
+10.0.0.5 GET /products
+172.16.0.3 GET /logout
+10.0.0.5 GET /cart
+192.168.0.12 GET /settings
+10.0.0.5 POST /api/checkout
+172.16.0.3 GET /profile
