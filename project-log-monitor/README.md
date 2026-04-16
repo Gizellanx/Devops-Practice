@@ -1,16 +1,44 @@
 # Log Monitoring Tool
 
-This project analyses a web server log file to identify the most active IP address.
+This project is a simple log analysis tool built using Python and the terminal to simulate how DevOps engineers work with system data.
 
 ## Overview
 
-The tool reads a log file, counts how many times each IP address appears, and generates a report.
+The script reads a log file, extracts IP addresses, and identifies the most active IP. The result is shown in the terminal and saved into a report file.
 
-## Technologies Used
+## Project Structure
 
-- Linux
-- Python
+- logs → contains the log file  
+- scripts → contains the Python script  
+- output → where the report is generated  
 
-## Goal
+## How It Works
 
-To simulate a real-world DevOps task by analysing logs and generating useful insights.
+- The script reads the log file line by line  
+- It extracts the IP address from each line  
+- It counts how many times each IP appears  
+- It finds the most active IP  
+- It prints the result and saves it into a report  
+
+## What I Practised
+
+- Working with file structures (logs, scripts, output)  
+- Reading and processing data using Python  
+- Understanding reusable logic (same script, different scenarios)  
+- Running scripts through the terminal instead of an IDE  
+- Seeing how terminal interacts directly with system files  
+
+## How to Run
+
+cd project-log-monitor/scripts  
+python3 log_analyser.py  
+
+## Example Output
+
+Most active IP: 10.0.0.5  
+Number of requests: 5  
+Report saved successfully  
+
+## Why This Matters
+
+This project helped me understand how log analysis can be automated. Instead of manually checking files, scripts can process data and generate useful results, which is a key part of DevOps workflows.
