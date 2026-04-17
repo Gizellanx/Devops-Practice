@@ -1,4 +1,4 @@
-# Day 2 – Log File Analysis (Most Active IP)
+# Day 2 – Log File Analysis (Linux)
 
 ## Overview
 In this task, I analysed a web server log file to identify the IP address that made the highest number of requests.
