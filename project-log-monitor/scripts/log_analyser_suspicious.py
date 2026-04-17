@@ -1,6 +1,6 @@
 from collections import Counter
 
-log_file = "../logs/access.log"
+log_file = "../logs/access_advanced.log"
 
 failed_ips = []
 
