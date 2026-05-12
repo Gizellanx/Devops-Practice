@@ -42,3 +42,16 @@ Report saved successfully
 ## Why This Matters
 
 This project helped me understand how log analysis can be automated. Instead of manually checking files, scripts can process data and generate useful results, which is a key part of DevOps workflows.
+
+## Refresh Update
+
+### Review Focus
+- Revisited log analysis workflows using Python
+- Reviewed failed request detection and IP extraction logic
+- Re-analysed access logs and output generation
+- Improved understanding of reusable monitoring scripts
+
+### Current Improvements
+- Reviewing existing script structure
+- Cleaning project documentation
+- Preparing for additional monitoring scenarios
