@@ -31,6 +31,11 @@ To build practical experience using Linux for log analysis, system navigation, a
 - Used awk, sort, uniq, and pipes to process data
 - Saved output to a file using redirection (>)
 
+### Day 4 – Linux Log Investigation Refresh
+- Refreshed Linux log investigation workflows
+- Practised grep, tail, and cat commands using access logs
+- Revisited terminal-based troubleshooting and log filtering
+
 ## Skills Gained
 
 - Log analysis using Linux CLI
