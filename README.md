@@ -65,7 +65,7 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Detected failed requests and suspicious activity  
 - Applied thresholds to identify abnormal behaviour
 
-  ### Day 6
+### Day 6
 - Refreshed Python log analysis workflows and reviewed previous scripts
 - Practised Linux log investigation commands using access logs
 - Improved understanding of suspicious IP detection and monitoring logic
