@@ -70,7 +70,7 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Practised Linux log investigation commands using access logs
 - Improved understanding of suspicious IP detection and monitoring logic
 
-### Day 7 – Python System Monitoring
+### Day 7 
 - Used Python to monitor CPU, memory, and disk usage
 - Introduced basic monitoring alerts using conditions
 - Continued connecting Linux monitoring concepts with Python automation
