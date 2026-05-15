@@ -55,3 +55,20 @@ This project helped me understand how log analysis can be automated. Instead of 
 - Reviewing existing script structure
 - Cleaning project documentation
 - Preparing for additional monitoring scenarios
+
+## Day 8 – System Monitoring Automation
+
+The project was expanded to include basic system monitoring using Python and psutil.
+
+A new monitoring script was added to:
+- check CPU usage
+- check memory usage
+- check disk usage
+- generate monitoring reports automatically
+
+The monitoring workflow now includes:
+- scripts for automation
+- logs for monitoring activity
+- output reports for generated results
+
+This helped connect Linux monitoring concepts with Python automation in a more practical workflow.
