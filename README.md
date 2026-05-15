@@ -75,5 +75,11 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Introduced basic monitoring alerts using conditions
 - Continued connecting Linux monitoring concepts with Python automation
 
+### Day 8
+- Built a Python system monitoring script using psutil
+- Monitored CPU, memory, and disk usage through automation
+- Generated monitoring reports and log files inside project-log-monitor
+- Continued combining Linux monitoring concepts with Python workflows
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
