@@ -81,5 +81,9 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Generated monitoring reports and log files inside project-log-monitor
 - Continued combining Linux monitoring concepts with Python workflows
 
+### Day 9
+- Practised Linux file permissions and user access commands
+- Learned how permissions affect scripts, files, and system access
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
