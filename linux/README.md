@@ -36,6 +36,11 @@ To build practical experience using Linux for log analysis, system navigation, a
 - Practised grep, tail, and cat commands using access logs
 - Revisited terminal-based troubleshooting and log filtering
 
+### Day 8 – File Permissions & Users
+- Practised Linux file permissions and ownership commands
+- - Practised using commands such as ls -l, chmod, whoami, and sudo
+- Learned how Linux controls access to files and scripts 
+
 ## Skills Gained
 
 - Log analysis using Linux CLI
@@ -46,3 +51,5 @@ To build practical experience using Linux for log analysis, system navigation, a
 ## Why This Matters
 
 Linux is widely used in DevOps environments. These exercises simulate real tasks such as analysing logs, troubleshooting systems, and understanding system behaviour.
+
+
