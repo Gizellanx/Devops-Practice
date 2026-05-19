@@ -38,7 +38,7 @@ To build practical experience using Linux for log analysis, system navigation, a
 
 ### Day 8 – File Permissions & Users
 - Practised Linux file permissions and ownership commands
-- - Practised using commands such as ls -l, chmod, whoami, and sudo
+- Practised using commands such as ls -l, chmod, whoami, and sudo
 - Learned how Linux controls access to files and scripts 
 
 ## Skills Gained
