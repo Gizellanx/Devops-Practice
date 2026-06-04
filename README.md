@@ -85,5 +85,10 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Practised Linux file permissions and user access commands
 - Learned how permissions affect scripts, files, and system access
 
+### Day 10
+- Learned how JSON stores and organises structured data
+- Used Python to read and process JSON information
+- Explored how JSON is used in monitoring, automation, and APIs
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
