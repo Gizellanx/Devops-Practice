@@ -90,5 +90,9 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Used Python to read and process JSON information
 - Explored how JSON is used in monitoring, automation, and APIs
 
+### Day 11
+- Learned how Linux manages foreground and background processes
+- Practised controlling running jobs from the terminal
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
