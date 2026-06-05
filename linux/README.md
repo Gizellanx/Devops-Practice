@@ -39,7 +39,12 @@ To build practical experience using Linux for log analysis, system navigation, a
 ### Day 8 – File Permissions & Users
 - Practised Linux file permissions and ownership commands
 - Practised using commands such as ls -l, chmod, whoami, and sudo
-- Learned how Linux controls access to files and scripts 
+- Learned how Linux controls access to files and scripts
+
+### Day 9 – Process Management & Background Jobs
+- Practised running and managing background processes
+- Used jobs, bg, fg, and nohup commands
+- Learned the difference between foreground and background tasks 
 
 ## Skills Gained
 
