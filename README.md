@@ -94,5 +94,10 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Learned how Linux manages foreground and background processes
 - Practised controlling running jobs from the terminal
 
+### Day 12
+- Expanded the Project Log Monitor with basic system monitoring features
+- Used Python to generate reports showing CPU, memory, and disk usage
+- Added a security log to explore login activity and monitoring scenarios
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
