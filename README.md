@@ -99,5 +99,10 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Used Python to generate reports showing CPU, memory, and disk usage
 - Added a security log to explore login activity and monitoring scenarios
 
+### Day 13
+- Learned how Linux manages services and background processes
+- Practised checking service status and monitoring system activity
+- Improved understanding of how applications stay running on Linux systems
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
