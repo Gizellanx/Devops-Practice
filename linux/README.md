@@ -44,7 +44,12 @@ To build practical experience using Linux for log analysis, system navigation, a
 ### Day 9 – Process Management & Background Jobs
 - Practised running and managing background processes
 - Used jobs, bg, fg, and nohup commands
-- Learned the difference between foreground and background tasks 
+- Learned the difference between foreground and background tasks
+  
+### Day 10 – Linux Services & Background Processes
+- Practised checking running services and processes
+- Used process monitoring commands to view system activity
+- Learned how Linux services support applications and system functions
 
 ## Skills Gained
 
