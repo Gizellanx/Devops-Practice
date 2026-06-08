@@ -45,6 +45,13 @@ This folder contains Python exercises and mini-projects focused on real-world De
 - Extracted values from monitoring-related data
 - Used conditions to analyse structured information
 
+### Day 9 – API Monitoring
+
+- Learned how Python can send requests to APIs
+- Practised checking response status codes
+- Explored how API monitoring helps identify service issues
+
+
 ## Skills Practised
 
 - File handling
