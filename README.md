@@ -104,5 +104,10 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Practised checking service status and monitoring system activity
 - Improved understanding of how applications stay running on Linux systems
 
+### Day 14
+- Learned how APIs are used to communicate between systems
+- Practised checking service health using Python requests
+- Explored how monitoring tools use API responses to detect issues
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
