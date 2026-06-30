@@ -109,5 +109,10 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Practised checking service health using Python requests
 - Explored how monitoring tools use API responses to detect issues
 
+### Day 15
+- Built a deployment health checker as part of my DevOps monitoring project.
+- Combined system monitoring and API health checks into a single workflow.
+- Learned how deployment validation helps engineers confirm a system is healthy before release.
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
