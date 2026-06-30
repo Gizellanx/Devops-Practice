@@ -1,74 +1,75 @@
 # Log Monitoring Tool
 
-This project is a simple log analysis tool built using Python and the terminal to simulate how DevOps engineers work with system data.
+This project is a simple monitoring tool built using Python and Linux concepts to simulate tasks commonly performed by DevOps engineers.
 
 ## Overview
 
-The script reads a log file, extracts IP addresses, and identifies the most active IP. The result is shown in the terminal and saved into a report file.
+The project analyses log files, monitors system health, checks API availability, and generates reports to help identify potential issues before they affect a system.
 
 ## Project Structure
 
-- logs → contains the log file  
-- scripts → contains the Python script  
-- output → where the report is generated  
+- logs → sample log files used for analysis
+- scripts → Python monitoring and analysis scripts
+- output → generated monitoring reports
+
+## Current Features
+
+- Log analysis for web server activity
+- Security log analysis for failed login attempts
+- System monitoring (CPU, memory and disk usage)
+- API health monitoring
+- Deployment health validation
+- Automated report generation
+
+## Deployment Health Check
+
+### Objective
+
+Simulate the checks a DevOps engineer might perform after deploying an application.
+
+### What It Checks
+
+- CPU utilisation
+- Memory utilisation
+- Disk usage
+- API availability
+- Failed login activity
+
+If all checks pass, the deployment is considered healthy. If any check fails or exceeds a defined threshold, the report highlights that further investigation is required.
 
 ## How It Works
 
-- The script reads the log file line by line  
-- It extracts the IP address from each line  
-- It counts how many times each IP appears  
-- It finds the most active IP  
-- It prints the result and saves it into a report  
+- Reads log files
+- Monitors system resources
+- Checks API availability
+- Analyses security events
+- Produces monitoring reports
+
+## Example Outputs
+
+- report.txt
+- security_report.txt
+- system_report.txt
+- deployment_report.txt
 
 ## What I Practised
 
-- Working with file structures (logs, scripts, output)  
-- Reading and processing data using Python  
-- Understanding reusable logic (same script, different scenarios)  
-- Running scripts through the terminal instead of an IDE  
-- Seeing how terminal interacts directly with system files  
-
-## How to Run
-
-cd project-log-monitor/scripts  
-python3 log_analyser.py  
-
-## Example Output
-
-Most active IP: 10.0.0.5  
-Number of requests: 5  
-Report saved successfully  
+- Python automation
+- Log analysis
+- System monitoring
+- API monitoring
+- Security monitoring
+- Report generation
+- Combining multiple monitoring tasks into a single DevOps workflow
 
 ## Why This Matters
 
-This project helped me understand how log analysis can be automated. Instead of manually checking files, scripts can process data and generate useful results, which is a key part of DevOps workflows.
+Monitoring is a core responsibility in DevOps. Rather than manually checking different systems, monitoring tools automate health checks, identify potential problems, and provide useful reports that help engineers respond quickly to incidents.
 
-## Refresh Update
+## Future Improvements
 
-### Review Focus
-- Revisited log analysis workflows using Python
-- Reviewed failed request detection and IP extraction logic
-- Re-analysed access logs and output generation
-- Improved understanding of reusable monitoring scripts
-
-### Current Improvements
-- Reviewing existing script structure
-- Cleaning project documentation
-- Preparing for additional monitoring scenarios
-
-## Day 8 – System Monitoring Automation
-
-The project was expanded to include basic system monitoring using Python and psutil.
-
-A new monitoring script was added to:
-- check CPU usage
-- check memory usage
-- check disk usage
-- generate monitoring reports automatically
-
-The monitoring workflow now includes:
-- scripts for automation
-- logs for monitoring activity
-- output reports for generated results
-
-This helped connect Linux monitoring concepts with Python automation in a more practical workflow.
+- Combine all monitoring scripts into a single workflow
+- Store monitoring history
+- Add configurable alert thresholds
+- Send notifications when critical issues are detected
+- Support monitoring multiple services and APIs
