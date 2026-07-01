@@ -114,5 +114,11 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Combined system monitoring and API health checks into a single workflow.
 - Learned how deployment validation helps engineers confirm a system is healthy before release.
 
+### Day 16
+
+- Learned how configuration files separate settings from application code
+- Used Python to read monitoring settings from a JSON configuration file
+- Improved automation scripts by replacing hardcoded values with configurable settings
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
