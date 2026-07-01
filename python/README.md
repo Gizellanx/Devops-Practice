@@ -51,6 +51,12 @@ This folder contains Python exercises and mini-projects focused on real-world De
 - Practised checking response status codes
 - Explored how API monitoring helps identify service issues
 
+### Day 10 – Configuration Files
+
+- Learned how JSON configuration files store application settings
+- Used Python to read configuration values
+- Explored how configuration files improve monitoring and automation scripts
+
 
 ## Skills Practised
 
