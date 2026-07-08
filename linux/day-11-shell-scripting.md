@@ -1,4 +1,4 @@
-# Day 13 – Shell Scripting for Automation
+# Day 11 – Shell Scripting for Automation
 
 ## Objective
 
