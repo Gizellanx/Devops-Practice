@@ -51,6 +51,12 @@ To build practical experience using Linux for log analysis, system navigation, a
 - Used process monitoring commands to view system activity
 - Learned how Linux services support applications and system functions
 
+### Day 11 – Shell Scripting for Automation
+
+- Built a Bash script to automate routine Linux system checks
+- Combined multiple commands into a single reusable script
+- Learned how shell scripting supports automation in DevOps
+
 ## Skills Gained
 
 - Log analysis using Linux CLI
