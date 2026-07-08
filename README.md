@@ -120,5 +120,11 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Used Python to read monitoring settings from a JSON configuration file
 - Improved automation scripts by replacing hardcoded values with configurable settings
 
+### Day 17
+
+- Built a Bash script to automate common Linux system checks
+- Used shell scripting to combine multiple commands into one workflow
+- Improved my understanding of automation in a DevOps environment
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
