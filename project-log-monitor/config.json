@@ -1,0 +1,7 @@
+{
+    "cpu_threshold": 80,
+    "memory_threshold": 80,
+    "disk_threshold": 90,
+    "failed_login_threshold": 5,
+    "api_url": "https://api.github.com"
+}
