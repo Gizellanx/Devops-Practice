@@ -1,0 +1,17 @@
+==============================
+CONFIGURATION SETTINGS
+==============================
+
+CPU Threshold: 80%
+Memory Threshold: 80%
+Disk Threshold: 90%
+
+API Endpoint:
+https://api.github.com
+
+Failed Login Threshold:
+5 Attempts
+
+Status
+
+Configuration loaded successfully.
