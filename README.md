@@ -126,5 +126,11 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Used shell scripting to combine multiple commands into one workflow
 - Improved my understanding of automation in a DevOps environment
 
+### Day 18
+
+- Improved my DevOps monitoring project by introducing configuration management
+- Used a JSON configuration file to store monitoring settings instead of hardcoding values
+- Learned why separating configuration from application code makes systems easier to maintain
+
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
