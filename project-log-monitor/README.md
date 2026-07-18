@@ -4,13 +4,14 @@ This project is a simple monitoring tool built using Python and Linux concepts t
 
 ## Overview
 
-The project analyses log files, monitors system health, checks API availability, and generates reports to help identify potential issues before they affect a system.
+The project analyses log files, monitors system health, checks API availability, and generates reports to help identify potential issues before they affect a system. Configuration settings are stored separately from the application code, making the tool easier to maintain and update.
 
 ## Project Structure
 
 - logs → sample log files used for analysis
 - scripts → Python monitoring and analysis scripts
 - output → generated monitoring reports
+- config.json → monitoring configuration settings
 
 ## Current Features
 
@@ -19,6 +20,7 @@ The project analyses log files, monitors system health, checks API availability,
 - System monitoring (CPU, memory and disk usage)
 - API health monitoring
 - Deployment health validation
+- Configuration management using `config.json`
 - Automated report generation
 
 ## Deployment Health Check
@@ -35,10 +37,13 @@ Simulate the checks a DevOps engineer might perform after deploying an applicati
 - API availability
 - Failed login activity
 
-If all checks pass, the deployment is considered healthy. If any check fails or exceeds a defined threshold, the report highlights that further investigation is required.
+The monitoring thresholds and API endpoint are loaded from `config.json`, allowing the application's behaviour to be changed without modifying the source code.
+
+If all checks pass, the deployment is considered healthy. If any check fails or exceeds a configured threshold, the report highlights that further investigation is required.
 
 ## How It Works
 
+- Reads monitoring settings from `config.json`
 - Reads log files
 - Monitors system resources
 - Checks API availability
@@ -51,6 +56,7 @@ If all checks pass, the deployment is considered healthy. If any check fails or 
 - security_report.txt
 - system_report.txt
 - deployment_report.txt
+- config_report.txt
 
 ## What I Practised
 
@@ -59,17 +65,18 @@ If all checks pass, the deployment is considered healthy. If any check fails or 
 - System monitoring
 - API monitoring
 - Security monitoring
+- Configuration management
 - Report generation
 - Combining multiple monitoring tasks into a single DevOps workflow
 
 ## Why This Matters
 
-Monitoring is a core responsibility in DevOps. Rather than manually checking different systems, monitoring tools automate health checks, identify potential problems, and provide useful reports that help engineers respond quickly to incidents.
+Monitoring is a core responsibility in DevOps. Separating configuration from application code makes monitoring tools easier to maintain, more flexible, and simpler to adapt for different environments without changing the source code.
 
 ## Future Improvements
 
 - Combine all monitoring scripts into a single workflow
 - Store monitoring history
-- Add configurable alert thresholds
 - Send notifications when critical issues are detected
+- Schedule automated monitoring runs
 - Support monitoring multiple services and APIs
