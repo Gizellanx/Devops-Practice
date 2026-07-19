@@ -21,7 +21,25 @@ The project analyses log files, monitors system health, checks API availability,
 - API health monitoring
 - Deployment health validation
 - Configuration management using `config.json`
+- Unified monitoring runner using `run_monitor.py`
 - Automated report generation
+
+## Unified Monitoring Runner
+
+### Objective
+
+Improve the project by providing a single entry point that executes all monitoring tasks.
+
+### What Was Added
+
+- Created `run_monitor.py`
+- Used Python's `subprocess` module to execute each monitoring script
+- Centralised the monitoring workflow into a single command
+- Prepared the project for future automation and scheduled monitoring
+
+### Why This Matters
+
+As monitoring applications grow, running individual scripts manually becomes inefficient. A unified monitoring runner allows every monitoring task to be started from a single command, making the application easier to use, maintain, and automate.
 
 ## Deployment Health Check
 
@@ -44,6 +62,7 @@ If all checks pass, the deployment is considered healthy. If any check fails or 
 ## How It Works
 
 - Reads monitoring settings from `config.json`
+- Executes all monitoring scripts through `run_monitor.py`
 - Reads log files
 - Monitors system resources
 - Checks API availability
@@ -66,16 +85,17 @@ If all checks pass, the deployment is considered healthy. If any check fails or 
 - API monitoring
 - Security monitoring
 - Configuration management
+- Using Python's `subprocess` module
+- Organising multiple monitoring scripts into a single workflow
 - Report generation
-- Combining multiple monitoring tasks into a single DevOps workflow
 
 ## Why This Matters
 
-Monitoring is a core responsibility in DevOps. Separating configuration from application code makes monitoring tools easier to maintain, more flexible, and simpler to adapt for different environments without changing the source code.
+Monitoring is a core responsibility in DevOps. Separating configuration from application code and providing a unified monitoring runner makes monitoring tools easier to maintain, automate, and extend as projects grow.
 
 ## Future Improvements
 
-- Combine all monitoring scripts into a single workflow
+- Generate a monitoring summary report
 - Store monitoring history
 - Send notifications when critical issues are detected
 - Schedule automated monitoring runs
