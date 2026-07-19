@@ -132,5 +132,11 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Used a JSON configuration file to store monitoring settings instead of hardcoding values
 - Learned why separating configuration from application code makes systems easier to maintain
 
+### Day 19
+
+- Added a unified monitoring runner to my DevOps monitoring project
+- Used Python's `subprocess` module to execute multiple monitoring scripts from a single entry point
+- Improved the structure of the project to support future automation and scheduled monitoring
+  
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
