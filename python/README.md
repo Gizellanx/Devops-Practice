@@ -57,6 +57,13 @@ This folder contains Python exercises and mini-projects focused on real-world De
 - Used Python to read configuration values
 - Explored how configuration files improve monitoring and automation scripts
 
+### Day 11
+
+- Learned how to use Python's built-in `logging` module
+- Recorded application events using different log levels
+- Generated log files for troubleshooting and monitoring
+- Prepared for implementing logging in my DevOps monitoring project
+
 
 ## Skills Practised
 
