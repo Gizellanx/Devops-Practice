@@ -137,6 +137,13 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Added a unified monitoring runner to my DevOps monitoring project
 - Used Python's `subprocess` module to execute multiple monitoring scripts from a single entry point
 - Improved the structure of the project to support future automation and scheduled monitoring
+
+### Day 20
+
+- Learned how to use Python's built-in `logging` module
+- Used different log levels (`INFO`, `WARNING`, and `ERROR`) to record application events
+- Generated log files to support troubleshooting and monitoring
+- Prepared to implement logging within my DevOps monitoring project
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
