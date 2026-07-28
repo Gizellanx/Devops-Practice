@@ -57,6 +57,13 @@ To build practical experience using Linux for log analysis, system navigation, a
 - Combined multiple commands into a single reusable script
 - Learned how shell scripting supports automation in DevOps
 
+### Day 12 – Cron Jobs
+
+- Learned how to automate repetitive tasks using cron
+- Practised creating, viewing, and removing scheduled tasks with `crontab`
+- Explored cron scheduling syntax for running scripts at specific times
+- Learned how DevOps engineers use cron to automate monitoring, backups, and maintenance tasks
+
 ## Skills Gained
 
 - Log analysis using Linux CLI
