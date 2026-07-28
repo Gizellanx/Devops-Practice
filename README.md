@@ -144,6 +144,13 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Used different log levels (`INFO`, `WARNING`, and `ERROR`) to record application events
 - Generated log files to support troubleshooting and monitoring
 - Prepared to implement logging within my DevOps monitoring project
+
+### Day 21
+
+- Learned how to automate repetitive tasks using Linux cron jobs
+- Practised creating, viewing, and managing scheduled tasks with `crontab`
+- Explored cron scheduling syntax for running scripts automatically
+- Learned how DevOps engineers use cron to automate monitoring, backups, and maintenance tasks
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
