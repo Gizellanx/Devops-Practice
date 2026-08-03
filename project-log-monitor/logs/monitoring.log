@@ -1,4 +1,7 @@
-INFO CPU usage normal
-INFO Memory usage normal
-WARNING Disk usage reaching threshold
-INFO Monitoring script executed successfully
+[2026-07-20 09:00:01] INFO  Project Log Monitor started
+[2026-07-20 09:00:02] INFO  Running log_analyser.py
+[2026-07-20 09:00:03] INFO  Running security_analyser.py
+[2026-07-20 09:00:05] INFO  Running system_monitor.py
+[2026-07-20 09:00:07] INFO  Running api_monitor.py
+[2026-07-20 09:00:08] INFO  Running deployment_health.py
+[2026-07-20 09:00:10] INFO  Monitoring completed successfully
