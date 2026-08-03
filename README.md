@@ -151,6 +151,13 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Practised creating, viewing, and managing scheduled tasks with `crontab`
 - Explored cron scheduling syntax for running scripts automatically
 - Learned how DevOps engineers use cron to automate monitoring, backups, and maintenance tasks
+
+### Day 22
+
+- Created a unified monitoring runner using Python's `subprocess` module
+- Improved monitoring logs with structured execution entries
+- Generated a monitoring summary after each run
+- Continued developing the project into a complete DevOps monitoring application
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
