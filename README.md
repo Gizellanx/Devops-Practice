@@ -158,6 +158,13 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Improved monitoring logs with structured execution entries
 - Generated a monitoring summary after each run
 - Continued developing the project into a complete DevOps monitoring application
+
+### Day 23
+
+- Added an alert management component to my Project Log Monitor
+- Created `alert_manager.py` to simulate how monitoring systems generate alerts
+- Integrated alert generation into the unified monitoring workflow
+- Improved my understanding of how monitoring, logging, reporting, and alerting work together in a DevOps environment
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
