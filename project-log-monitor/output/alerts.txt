@@ -1,0 +1,18 @@
+===========================
+DEVOPS ALERT
+===========================
+
+Status: WARNING
+
+Monitoring detected a potential issue.
+
+Checks requiring attention:
+
+- CPU
+- Memory
+- Disk
+- API
+
+Please investigate immediately.
+
+===========================
