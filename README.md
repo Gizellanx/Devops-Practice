@@ -165,6 +165,14 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Created `alert_manager.py` to simulate how monitoring systems generate alerts
 - Integrated alert generation into the unified monitoring workflow
 - Improved my understanding of how monitoring, logging, reporting, and alerting work together in a DevOps environment
+
+### Day 24
+
+- Improved the alert management component within my Project Log Monitor
+- Added structured alert messages with timestamps and severity levels
+- Used Python's `logging` module to record monitoring alerts
+- Improved the connection between monitoring results, alerting, and troubleshooting
+- Continued developing the project towards a more realistic DevOps monitoring workflow
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
