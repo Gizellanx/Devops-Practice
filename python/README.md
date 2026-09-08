@@ -64,6 +64,14 @@ This folder contains Python exercises and mini-projects focused on real-world De
 - Generated log files for troubleshooting and monitoring
 - Prepared for implementing logging in my DevOps monitoring project
 
+### Day 12 – Exception Handling
+
+- Learned how to use `try` and `except` to handle errors in Python
+- Practised handling missing files and permission errors
+- Used `os.path.exists()` to check whether files are available
+- Applied exception handling to log file processing
+- Improved script reliability for DevOps automation
+
 
 ## Skills Practised
 
