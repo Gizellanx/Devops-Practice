@@ -173,6 +173,16 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Used Python's `logging` module to record monitoring alerts
 - Improved the connection between monitoring results, alerting, and troubleshooting
 - Continued developing the project towards a more realistic DevOps monitoring workflow
+
+### Day 25
+
+- Containerised the Project Log Monitor using Docker
+- Created a Dockerfile to package the monitoring application and its Python dependencies
+- Added a `.dockerignore` file to exclude unnecessary files from the Docker build context
+- Added a `requirements.txt` file to define the application's Python dependencies
+- Created a GitHub Actions workflow to automatically build and run the Docker container
+- Verified that the Docker workflow completed successfully using GitHub Actions
+- Improved my understanding of containerisation and how Docker supports consistent application environments
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
