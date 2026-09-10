@@ -10,7 +10,6 @@ scripts = [
     "log_analyser.py",
     "security_analyser.py",
     "system_monitor.py",
-    "api_monitor.py",
     "deployment_health.py"
 ]
 
