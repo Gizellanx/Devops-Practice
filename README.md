@@ -183,6 +183,12 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Created a GitHub Actions workflow to automatically build and run the Docker container
 - Verified that the Docker workflow completed successfully using GitHub Actions
 - Improved my understanding of containerisation and how Docker supports consistent application environments
+
+  ### Day 26
+
+- Improved my GitHub Actions workflow to automatically validate my Python code and build and run the Docker container.
+- Added dependency installation and Python validation to the CI process.
+- Confirmed the workflow runs successfully from GitHub Actions.
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
