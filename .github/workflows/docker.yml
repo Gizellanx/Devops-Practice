@@ -16,6 +16,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r project-log-monitor/requirements.txt
+
+      - name: Validate Python scripts
+        run: python -m compileall project-log-monitor/scripts
+
       - name: Build Docker image
         run: docker build -t project-log-monitor ./project-log-monitor
 
