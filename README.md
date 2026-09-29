@@ -184,7 +184,7 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Verified that the Docker workflow completed successfully using GitHub Actions
 - Improved my understanding of containerisation and how Docker supports consistent application environments
 
-  ### Day 26
+### Day 26
   
 - Improved my GitHub Actions workflow to automatically validate my Python code and build and run the Docker container.
 - Added dependency installation and Python validation to the CI process.
