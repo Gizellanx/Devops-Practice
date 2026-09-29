@@ -185,10 +185,21 @@ This repository contains hands-on projects focused on analysing system behaviour
 - Improved my understanding of containerisation and how Docker supports consistent application environments
 
   ### Day 26
-
+  
 - Improved my GitHub Actions workflow to automatically validate my Python code and build and run the Docker container.
 - Added dependency installation and Python validation to the CI process.
 - Confirmed the workflow runs successfully from GitHub Actions.
+
+### Day 27 — AWS EC2 Deployment
+
+- Created an AWS EC2 Linux server for the Project Log Monitor.
+- Connected to the server using SSH and configured Docker and Git.
+- Set up SSH authentication between the EC2 server and GitHub.
+- Cloned the project repository onto the EC2 instance.
+- Built the Project Log Monitor Docker image successfully on the cloud server.
+- Started testing the container and investigated a JSON configuration error during deployment.
+
+**Key learning:** Practiced taking a containerised application from GitHub and deploying it into an AWS cloud environment, including Linux server setup, SSH authentication, Docker, and troubleshooting.
   
 ## Goal
 To develop strong, practical DevOps skills and transition into a Junior DevOps Engineer role.
