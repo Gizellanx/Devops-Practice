@@ -15,6 +15,10 @@ This document will track the deployment of the Project Log Monitor application t
 
 - Docker containerisation: Complete
 - GitHub Actions CI: Complete
-- AWS deployment: In progress
+- AWS EC2 instance: Complete
+- Docker configured on EC2: Complete
+- Repository deployed to EC2: Complete
+- Docker image built successfully on EC2: Complete
+- Container verification: In progress
 - Continuous deployment (CD): Planned
 - Terraform infrastructure: Planned
